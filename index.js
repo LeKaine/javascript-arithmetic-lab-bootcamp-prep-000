@@ -12,6 +12,10 @@ function divide (a,b){
  return a / b;
 }
 
-function parseinc(n){
+function inc(n){
  return number +=1;
  }
+
+function dec(n){
+ return number -=1;
+}
